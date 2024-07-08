@@ -1,0 +1,17 @@
+{
+  "shopName": "Shop quần áo",
+  "shopPhone": "0978476946",
+  "shopEmail": "phamquangnamhuy1908@gmail.com",
+  "shopCity": "Hồ Chí Minh",
+  "shopWard": "Phường 16",
+  "shopDistrict": "Quận Gò Vấp",
+  "shopStreet": "Thống Nhất",
+  "shopOwner": "Nhóm java",
+  "shopLogo": "",
+  "sliderBanner": [
+    {
+      "image": "",
+      "href": ""
+    }
+  ]
+}
